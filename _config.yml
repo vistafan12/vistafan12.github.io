@@ -1,9 +1,9 @@
 # Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
+title: "TechBittoco"
+description: "Technologiczna e-gazeta. Po prostu"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
-author: "John Doe"
+author: "Eryk 'vistafan12' Lupa"
 
 # Build settings
 kramdown:
