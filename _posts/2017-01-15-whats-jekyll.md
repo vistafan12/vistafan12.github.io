@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What's Jekyll?
-tags: [Demo, Jekyll]
+title: Co to Jekyll?
+tags: [Skrypty, Jekyll]
 comment: false
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
+[Jekyll](http://jekyllrb.com) to statyczny generator blogów lub narzędzie open-source do tworzenia prostych, ale potężnych stron internetowych o różnych kształtach i rozmiarach. Z [projektowego readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+> Jekyll jest prostym, statycznym generatorem blogów. Wybieramy konkretny motyw [...] i skrypt wypluwa kompletną, statyczną stronę internetową odpowiednią do obsługi Apache lub ulubionego serwera WWW. Jest to również silnik GitHub Pages, który możesz wykorzystać do hostowania strony lub bloga projektu przez GitHub.
 
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+To niezmiernie przydatne narzędzie. [Dowiedz się więcej](https://github.com/jekyll/jekyll).
